@@ -186,7 +186,9 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <img src="https://skillicons.dev/icons?i=css" height="36"/>
         <img src="https://skillicons.dev/icons?i=js" height="36"/>
         <br/><br/>
-        <a href="#"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+       <div align="center">
+        <a href="https://github.com/joaobatis1a/P.O.N.T.E"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <div/>
       </details>
     </td>
   </tr>
@@ -219,7 +221,9 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <img src="https://skillicons.dev/icons?i=css" height="36"/>
         <img src="https://skillicons.dev/icons?i=js" height="36"/>
         <br/><br/>
-        <a href="#"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+       <div align="center">
+        <a href="https://github.com/joaobatis1a/Benevo"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <div/>
       </details>
     </td>
   </tr>
@@ -249,7 +253,9 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <img src="https://skillicons.dev/icons?i=python" height="36"/>
         <img src="https://skillicons.dev/icons?i=pygame" height="36"/>
         <br/><br/>
-        <a href="#"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+       <div align="center">
+        <a href="https://github.com/joaobatis1a/Limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <div/>
       </details>
     </td>
   </tr>
@@ -263,9 +269,12 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 
 *"Eu não sou o héroi que Gotham merece, mas sim o que ela precisa."* 🦇
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaobatis1a&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatis1a&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF)
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatis1a&theme=github_dark" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatis1a&theme=github_dark" />
+
+</div>
 
 ![Snake](https://github.com/joaobatis1a/joaobatis1a/blob/output/github-contribution-grid-snake-dark.svg)
 

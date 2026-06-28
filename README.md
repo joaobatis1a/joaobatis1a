@@ -96,11 +96,11 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
     <th>🤖 IA & Produtividade</th>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma"/>
       <br/>
       <img src="./img/v0.png" height="42" width="42" style="border-radius: 20%;" alt="v0"/>
-      <img src="./img/lovable.png" height="42" width="42" style="border-radius: 20%;" alt="Lovable"/>
+      <img src="./img/lovable.png" height="42" width="42" style="border-radius: 20%;"  alt="Lovable"/>
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/>

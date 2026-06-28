@@ -164,9 +164,10 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <img src="https://skillicons.dev/icons?i=ts" height="36"/>
         <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
         <img src="https://skillicons.dev/icons?i=supabase" height="36"/>
+        <img src="./img/resend.png" height="36"/>
         <br/><br/>
        <div align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/joaobatis1a/kairos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
         </div>
       </details>
     </td>
@@ -287,8 +288,6 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatis1a&theme=github_dark" />
 
 </div>
-
-![Snake](https://github.com/joaobatis1a/joaobatis1a/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

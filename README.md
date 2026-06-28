@@ -51,29 +51,37 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 
 <table>
   <tr>
+    <th>💻 Linguagens</th>
     <th>🎨 Front-end</th>
     <th>⚙️ Back-end</th>
-    <th>🗄️ Banco de Dados</th>
+    <th>🗄️ Databases</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="48"/>
-      <img src="https://skillicons.dev/icons?i=css" height="48"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML"/>
+      <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS"/>
       <br/>
-      <img src="https://skillicons.dev/icons?i=js" height="48"/>
-      <img src="https://skillicons.dev/icons?i=ts" height="48"/>
+      <img src="https://skillicons.dev/icons?i=js" height="42" alt="JS"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TS"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=java" height="42" alt="Java"/>
+      <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python"/>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="48"/>
-      <img src="https://skillicons.dev/icons?i=python" height="48"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=react" height="42" alt="React"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js"/>
       <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
+      <img src="https://skillicons.dev/icons?i=vite" height="42" alt="Vite"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind"/>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
-      <img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB"/>
       <br/>
-      <img src="https://skillicons.dev/icons?i=firebase" height="48"/>
+      <img src="https://skillicons.dev/icons?i=supabase" height="42" alt="Supabase"/>
     </td>
   </tr>
 </table>
@@ -82,28 +90,35 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 
 <table>
   <tr>
-    <th>📦 Frameworks & Libs</th>
-    <th>🔀 Versionamento</th>
-    <th>💻 IDE's</th>
-    <th>🎨 Prototipação</th>
+    <th>📐 Prototipação</th>
+    <th>🚀 Deploy & Tools</th>
+    <th>📩 Mensageria & APIs</th>
+    <th>🤖 IA & Produtividade</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" height="48"/>
-      <img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma"/>
       <br/>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
-      <img src="https://skillicons.dev/icons?i=pygame" height="48"/>
+      <img src="./img/v0.png" height="42" width="42" style="border-radius: 20%; object-fit: cover; margin-top: 4px;" alt="v0"/>
+      <img src="./img/lovable.png" height="42" width="42" style="border-radius: 20%; object-fit: cover; margin-top: 4px;" alt="Lovable"/>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="48"/>
-      <img src="https://skillicons.dev/icons?i=github" height="48"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/>
+      <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VSCode"/>
+      <img src="https://skillicons.dev/icons?i=vercel" height="42" alt="Vercel"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=netlify" height="42" alt="Netlify"/>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+    <td align="center" valign="top">
+      <img src="./img/resend.png" height="42" width="42" style="border-radius: 20%; object-fit: cover;" alt="Resend"/>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" height="48"/>
+    <td align="center" valign="top">
+      <img src="./img/chatgpt.png" height="42" width="42" style="border-radius: 20%; object-fit: cover;" alt="ChatGPT"/>
+      <img src="./img/gemini.png" height="42" width="42" style="border-radius: 20%; object-fit: contain; background-color: #1a1a1a; padding: 4px; box-sizing: border-box;" alt="Gemini"/>
+      <br/>
+      <img src="./img/claude.png" height="42" width="42" style="border-radius: 20%; object-fit: cover; margin-top: 4px;" alt="Claude"/>
     </td>
   </tr>
 </table>
@@ -128,35 +143,32 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🍔_GUTS-555?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/💈_KAIROS-0070F3?style=for-the-badge&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>
-      <b>🍔 Guts</b>
+      <b>💈 Kairos — Sistema de Gestão e Agendamento para Barbearias</b>
       <br/><br/>
-      <i>Descrição em breve.</i>
+      Plataforma moderna desenvolvida para otimizar o dia a dia de barbearias, permitindo o agendamento de serviços, controle de horários dos profissionais e notificações integradas para os clientes.
       <br/><br/>
-      ⚫ <b>Em Breve</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🧮_PRA(X)IS-555?style=for-the-badge&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🧮 Pra(x)is</b>
+      <b>Objetivo:</b> Simplificar a gestão de agendamentos e melhorar a comunicação com os clientes através de disparos automáticos de e-mail.
       <br/><br/>
-      <i>Descrição em breve.</i>
-      <br/><br/>
-      ⚫ <b>Em Breve</b>
+      <details>
+        <summary><b>Ver mais</b></summary>
+        <br/>
+        🚧 <b>Em Desenvolvimento</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor Full-stack
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react" height="36"/>
+        <img src="https://skillicons.dev/icons?i=nextjs" height="36"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="36"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
+        <img src="https://skillicons.dev/icons?i=supabase" height="36"/>
+        <br/><br/>
+       <div align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </div>
+      </details>
     </td>
   </tr>
 </table>
@@ -188,7 +200,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <br/><br/>
        <div align="center">
         <a href="https://github.com/joaobatis1a/ponte"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <div/>
+        </div>
       </details>
     </td>
   </tr>
@@ -223,7 +235,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <br/><br/>
        <div align="center">
         <a href="https://github.com/joaobatis1a/benevo"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <div/>
+        </div>
       </details>
     </td>
   </tr>
@@ -255,7 +267,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <br/><br/>
        <div align="center">
         <a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <div/>
+        </div>
       </details>
     </td>
   </tr>
@@ -267,7 +279,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 
 <div align="center">
 
-*"Eu não sou o héroi que Gotham merece, mas sim o que ela precisa."* 🦇
+*"Eu não sou o herói que Gotham merece, mas sim o que ela precisa."* 🦇
 
 <div align="center">
 
@@ -279,6 +291,5 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 ![Snake](https://github.com/joaobatis1a/joaobatis1a/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
 
 </div>

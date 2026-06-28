@@ -99,8 +99,8 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma"/>
       <br/>
-      <img src="./img/v0.png" height="42" width="42" style="border-radius: 20%;" style="border-radius: 10px;" alt="v0"/>
-      <img src="./img/lovable.png" height="42" width="42" style="border-radius: 20%;" style="border-radius: 10px;"  alt="Lovable"/>
+      <img src="./img/v0.png" height="42" width="42"  alt="v0"/>
+      <img src="./img/lovable.png" height="42" width="42"  alt="Lovable"/>
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/>
@@ -112,13 +112,13 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
       <img src="https://skillicons.dev/icons?i=netlify" height="42" alt="Netlify"/>
     </td>
     <td align="center" valign="top">
-      <img src="./img/resend.png" height="42" width="42" style="border-radius: 20%;" style="border-radius: 10px;" alt="Resend"/>
+      <img src="./img/resend.png" height="42" width="42" alt="Resend"/>
     </td>
     <td align="center" valign="top">
-      <img src="./img/chatgpt.png" height="42" width="42" style="border-radius: 20%;" alt="ChatGPT"/>
-      <img src="./img/gemini.png" height="42" width="42" style="border-radius: 20%; background-color: #1a1a1a;" alt="Gemini"/>
+      <img src="./img/chatgpt.png" height="42" width="42" alt="ChatGPT"/>
+      <img src="./img/gemini.png" height="42" width="42" background-color: #1a1a1a;" alt="Gemini"/>
       <br/>
-      <img src="./img/claude.png" height="42" width="42" style="border-radius: 20%;" style="border-radius: 10px;" alt="Claude"/>
+      <img src="./img/claude.png" height="42" width="42" alt="Claude"/>
     </td>
   </tr>
 </table>

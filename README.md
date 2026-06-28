@@ -179,15 +179,15 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
       <br/><br/>
       <details>
         <summary><b>Ver mais</b></summary>
-        <br/>
-        🟠 <b>Em Desenvolvimento</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end
+       <br/>
+        🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Fev – Jun 2026
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=html" height="36"/>
         <img src="https://skillicons.dev/icons?i=css" height="36"/>
         <img src="https://skillicons.dev/icons?i=js" height="36"/>
         <br/><br/>
        <div align="center">
-        <a href="https://github.com/joaobatis1a/P.O.N.T.E"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/joaobatis1a/ponte"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
         <div/>
       </details>
     </td>
@@ -222,7 +222,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <img src="https://skillicons.dev/icons?i=js" height="36"/>
         <br/><br/>
        <div align="center">
-        <a href="https://github.com/joaobatis1a/Benevo"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/joaobatis1a/benevo"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
         <div/>
       </details>
     </td>
@@ -254,7 +254,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <img src="https://skillicons.dev/icons?i=pygame" height="36"/>
         <br/><br/>
        <div align="center">
-        <a href="https://github.com/joaobatis1a/Limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
         <div/>
       </details>
     </td>

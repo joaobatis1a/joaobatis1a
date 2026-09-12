@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://joao-batista-portfolio.vercel.app/logo.svg" width="56" height="56" alt="logo"/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=030a06,14532d,0e7490&height=200&section=header&text=João%20Batista&fontSize=52&fontColor=FFFFFF&fontAlignY=45"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-End+J%C3%BAnior+%7C+React+%26+Next.js;Do+Figma+ao+c%C3%B3digo%2C+sempre+com+aten%C3%A7%C3%A3o+ao+detalhe;Frontista+%7C+Documentando+minha+evolu%C3%A7%C3%A3o+em+p%C3%BAblico" alt="Typing SVG"/>
@@ -42,8 +40,6 @@ Paulista, PE 📍
 ---
 
 ## < Habilidades />
-
-<sub>// stack que uso no dia a dia</sub>
 
 <br/>
 
@@ -112,122 +108,158 @@ Paulista, PE 📍
 
 ## < Projetos />
 
-<sub>// clique nos badges pra ver código e demo</sub>
+<br/>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💈_KAIROS-F43F5E?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💈 Kairos — Sistema de Gestão e Agendamento para Barbearias</b>
+      <br/><br/>
+      Cliente marca pelo link, barbeiro acompanha tudo no painel, com confirmação e lembrete automáticos por e-mail.
+      <br/><br/>
+      <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Jun – Set 2026
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/kairos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://kairos-demo-rouge.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-F43F5E?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/💈_KAIROS-F43F5E?style=for-the-badge&logoColor=white"/>
-
-**Agendamento para barbearias.** Cliente marca pelo link, barbeiro acompanha tudo no painel, com confirmação e lembrete automáticos por e-mail.
-
-<sub>Desenvolvedor Full-stack (solo) · Jun – Set 2026</sub>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" height="28"/>
-
-[![Código](https://img.shields.io/badge/Código-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/joaobatis1a/kairos)
-[![Demo](https://img.shields.io/badge/Demo-F43F5E?style=flat-square&logoColor=white)](https://kairos-demo-rouge.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/>
-
-**Gestão do conhecimento pra empresas.** Documentos, procedimentos e avisos da equipe num lugar só, com acesso por cargo.
-
-<sub>Desenvolvedor Full-stack (solo) · Mai – Jul 2026</sub>
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vite" height="28"/>
-
-[![Código](https://img.shields.io/badge/Código-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/joaobatis1a/praxis)
-[![Demo](https://img.shields.io/badge/Demo-14B8A6?style=flat-square&logoColor=white)](https://demo-praxis.vercel.app/)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/🌉_P.O.N.T.E-F97316?style=for-the-badge&logoColor=white"/>
-
-**Conecta jovens talentos do Nordeste** a vagas, cursos e eventos de empresas locais, com gamificação por XP e ranking.
-
-<sub>🥇 1º lugar · Front-end Lead & Scrum Master · Jan 2026 – presente</sub>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,figma" height="28"/>
-
-[![Código](https://img.shields.io/badge/Código-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/joaobatis1a/ponte)
-[![Demo](https://img.shields.io/badge/Demo-F97316?style=flat-square&logoColor=white)](https://ponte-demo.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/🤝_BENEVO-3B82F6?style=for-the-badge&logoColor=white"/>
-
-**Gestão de doações pra ONGs**, com controle de estoque, recebimento e distribuição de itens.
-
-<sub>🥈 2º lugar · Front-end Lead & Scrum Master · Jul – Dez 2025</sub>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb" height="28"/>
-
-[![Código](https://img.shields.io/badge/Código-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/joaobatis1a/benevo)
-[![Demo](https://img.shields.io/badge/Demo-3B82F6?style=flat-square&logoColor=white)](https://benevo-demo.vercel.app/)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/🦠_LIMPATTACK-FBBF24?style=for-the-badge&logoColor=black"/>
-
-**Jogo educativo inspirado em Pokémon** pra ensinar higiene pra crianças de 6 a 10 anos, com sprites e mecânicas de RPG.
-
-<sub>🥇 1º lugar · Desenvolvedor & Editor do Trailer · Fev – Jun 2025</sub>
-
-<img src="https://skillicons.dev/icons?i=python,pygame" height="28"/>
-
-[![Código](https://img.shields.io/badge/Código-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/joaobatis1a/limpattack)
-[![Demo](https://img.shields.io/badge/Demo-FBBF24?style=flat-square&logoColor=black)](https://limpattack.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/💰_DESPEVIT-8B5CF6?style=for-the-badge&logoColor=white"/>
-
-**Gestão e planejamento financeiro pessoal.** Contas, cartões, metas e previsão de compras num lugar só.
-
-<sub>🚧 Em construção · Desenvolvedor Full-stack (solo) · Set 2026 – presente</sub>
-
-<img src="https://skillicons.dev/icons?i=angular,ts,supabase,postgres" height="28"/>
-
-[![Código](https://img.shields.io/badge/Código-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/joaobatis1a/despevit)
-<sub>ainda sem demo, código em construção</sub>
-
-</td>
-
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📚 Praxis — Gestão do Conhecimento Corporativo</b>
+      <br/><br/>
+      Documentos, procedimentos e avisos da equipe num lugar só, com acesso por cargo.
+      <br/><br/>
+      <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Mai – Jul 2026
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vite" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/praxis"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://demo-praxis.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-14B8A6?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌉_P.O.N.T.E-F97316?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🌉 P.O.N.T.E — Plataforma de Oportunidades e Networking para Talentos Emergentes</b>
+      <br/><br/>
+      Conecta jovens talentos do Nordeste a vagas, cursos e eventos de empresas locais, com gamificação por XP e ranking.
+      <br/><br/>
+      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jan 2026 – presente
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,figma" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/ponte"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://ponte-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-F97316?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🤝_BENEVO-3B82F6?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🤝 Benevo — Sistema de Gestão de Doações para ONGs</b>
+      <br/><br/>
+      Controle de estoque, recebimento e distribuição de itens para beneficiários de ONGs.
+      <br/><br/>
+      🥈 <b>2º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jul – Dez 2025
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/benevo"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://benevo-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-3B82F6?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🦠_LIMPATTACK-FBBF24?style=for-the-badge&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🦠 Limpattack — Jogo Educativo Interativo sobre Higiene</b>
+      <br/><br/>
+      Jogo inspirado na franquia Pokémon pra ensinar higiene e combate a bactérias pra crianças de 6 a 10 anos.
+      <br/><br/>
+      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor & Editor do Trailer &nbsp;|&nbsp; <b>Período:</b> Fev – Jun 2025
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,pygame" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://limpattack.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-FBBF24?style=for-the-badge&logoColor=black"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💰_DESPEVIT-8B5CF6?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💰 Despevit — Gestão e Planejamento Financeiro Pessoal</b>
+      <br/><br/>
+      Contas, cartões, metas e previsão de compras num lugar só.
+      <br/><br/>
+      🚧 <b>Em construção</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Set 2026 – presente
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=angular,ts,supabase,postgres" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/despevit"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <br/><br/>
+      <sub>ainda sem demo, código em construção</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
-
-```
-$ whoami
-joão_batista, frontend dev
-$ status
-construindo algo novo
-```
 
 <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobatis1a&theme=github_dark" />
 <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobatis1a&theme=github_dark" />

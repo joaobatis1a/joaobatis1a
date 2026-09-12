@@ -197,11 +197,11 @@ Paulista, PE 📍
     <td>
       <b>🌉 P.O.N.T.E</b>
       <br/><br/>
-      Conecta jovens talentos do Nordeste a vagas, cursos e eventos de empresas locais, com gamificação por XP e ranking.
+      Conecta jovens talentos do Nordeste a oportunidades reais, com o Manguelito, um assistente de IA que identifica habilidades a partir de conversas.
       <br/><br/>
       🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jan 2026 até o momento
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,figma" height="36"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,figma,python,fastapi,mongodb" height="36"/>
       <br/><br/>
       <a href="https://github.com/joaobatis1a/ponte"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="https://ponte-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-F97316?style=for-the-badge&logoColor=white"/></a>

@@ -17,7 +17,7 @@
 
 ## 🦇 Quem sou eu?
 
-Sou **João Batista**, desenvolvedor front-end em formação, atualmente no 3º período de Análise e Desenvolvimento de Sistemas na **FAFIRE**, com formação técnica em TI pelo Senac.
+Sou **João Batista**, desenvolvedor front-end em formação, atualmente no 4º período de Análise e Desenvolvimento de Sistemas no **Centro Universitário UNIFAFIRE**, com formação técnica em TI pelo Senac.
 
 Tenho grande interesse em **desenvolvimento de interfaces e experiência do usuário**, buscando criar aplicações que unam funcionalidade, clareza visual e usabilidade. Também possuo afinidade com design de interfaces e prototipação, o que contribui para uma visão mais estratégica na construção de produtos digitais.
 
@@ -25,7 +25,7 @@ Além do desenvolvimento, sou criador do projeto **Frontista**, perfil onde comp
 
 Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos que fortaleceram minhas habilidades em trabalho em equipe, organização, comunicação e resolução de problemas. Busco constantemente evoluir profissionalmente, aprendendo novas tecnologias, aprimorando processos e desenvolvendo soluções cada vez mais eficientes e bem estruturadas.
 
-> Pernambuco — Brasil
+> Pernambuco, Brasil
 
 ---
 
@@ -33,9 +33,9 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
 
 <div align="center">
 
-> *Em construção — em breve você poderá ver meus projetos reunidos em um só lugar.*
+> *Todos os projetos reunidos, com o detalhe técnico de cada um.*
 
-[![Portfólio](https://img.shields.io/badge/🚀%20Acessar%20Portfólio-FFD700?style=for-the-badge&logoColor=black)](#)
+[![Portfólio](https://img.shields.io/badge/🚀%20Acessar%20Portfólio-FFD700?style=for-the-badge&logoColor=black)](https://joao-batista-portfolio.vercel.app)
 
 </div>
 
@@ -157,7 +157,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
       <details>
         <summary><b>Ver mais</b></summary>
         <br/>
-        🚧 <b>Em Desenvolvimento</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor Full-stack
+        <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Jun – Set 2026
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=react" height="36"/>
         <img src="https://skillicons.dev/icons?i=nextjs" height="36"/>
@@ -168,6 +168,43 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <br/><br/>
        <div align="center">
         <a href="https://github.com/joaobatis1a/kairos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://kairos-demo-rouge.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-0070F3?style=for-the-badge&logoColor=white"/></a>
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📚 Praxis — Gestão do Conhecimento Corporativo</b>
+      <br/><br/>
+      Sistema para centralizar documentos, procedimentos e avisos de equipe num lugar só, com controle de acesso por cargo.
+      <br/><br/>
+      <b>Objetivo:</b> Reduzir o tempo de integração de novos colaboradores, resolvendo um gargalo real observado na rotina do Grupo ACLF.
+      <br/><br/>
+      <details>
+        <summary><b>Ver mais</b></summary>
+        <br/>
+        <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Mai – Jul 2026
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react" height="36"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="36"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
+        <img src="https://skillicons.dev/icons?i=supabase" height="36"/>
+        <img src="https://skillicons.dev/icons?i=vite" height="36"/>
+        <br/><br/>
+       <div align="center">
+        <a href="https://github.com/joaobatis1a/praxis"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://demo-praxis.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-14B8A6?style=for-the-badge&logoColor=white"/></a>
         </div>
       </details>
     </td>
@@ -193,7 +230,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
       <details>
         <summary><b>Ver mais</b></summary>
        <br/>
-        🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Fev – Jun 2026
+        🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jan 2026 – presente
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=html" height="36"/>
         <img src="https://skillicons.dev/icons?i=css" height="36"/>
@@ -201,6 +238,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <br/><br/>
        <div align="center">
         <a href="https://github.com/joaobatis1a/ponte"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://ponte-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-FF8C00?style=for-the-badge&logoColor=white"/></a>
         </div>
       </details>
     </td>
@@ -236,6 +274,7 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <br/><br/>
        <div align="center">
         <a href="https://github.com/joaobatis1a/benevo"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://benevo-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-C0C0C0?style=for-the-badge&logoColor=black"/></a>
         </div>
       </details>
     </td>
@@ -268,7 +307,44 @@ Ao longo da minha caminhada, participei de projetos acadêmicos e colaborativos 
         <br/><br/>
        <div align="center">
         <a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://limpattack.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-FFD700?style=for-the-badge&logoColor=black"/></a>
         </div>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💰_DESPEVIT-8B5CF6?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💰 Despevit — Gestão e Planejamento Financeiro Pessoal</b>
+      <br/><br/>
+      App pra entender de verdade a situação financeira, não só registrar gastos: contas, cartões, metas e previsão de compras num lugar só.
+      <br/><br/>
+      <b>Objetivo:</b> Responder perguntas tipo "quanto posso gastar sem comprometer minhas contas" e "quando vou conseguir comprar isso".
+      <br/><br/>
+      <details>
+        <summary><b>Ver mais</b></summary>
+        <br/>
+        🚧 <b>Em construção</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Set 2026 – presente
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=angular" height="36"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="36"/>
+        <img src="https://skillicons.dev/icons?i=supabase" height="36"/>
+        <img src="https://skillicons.dev/icons?i=postgres" height="36"/>
+        <br/><br/>
+       <div align="center">
+        <a href="https://github.com/joaobatis1a/despevit"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </div>
+        <br/>
+        <sub>Ainda sem demo, código em construção.</sub>
       </details>
     </td>
   </tr>

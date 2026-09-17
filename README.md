@@ -249,7 +249,8 @@ Paulista, PE 📍
       <br/><br/>
       🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor & Editor do Trailer &nbsp;|&nbsp; <b>Período:</b> Fev a Jun 2025
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,pygame" height="36"/>
+      <img src="https://skillicons.dev/icons?i=python" height="36"/>
+      <img src="./img/pygame.png" height="36" width="36" alt="Pygame"/>
       <br/><br/>
       <a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="https://limpattack.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-FBBF24?style=for-the-badge&logoColor=black"/></a>

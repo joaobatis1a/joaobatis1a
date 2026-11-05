@@ -15,13 +15,13 @@
 
 ## < Sobre />
 
-Sou **João Batista**, desenvolvedor front-end em formação, atualmente no 4º período de Análise e Desenvolvimento de Sistemas no **Centro Universitário UNIFAFIRE**, com formação técnica em TI pelo Senac.
+Sou **João Batista**, desenvolvedor front-end e estudante do 4º período de Análise e Desenvolvimento de Sistemas no **Centro Universitário UNIFAFIRE**, com formação técnica em TI pelo Senac. Estou buscando **estágio em front-end**.
 
-Tenho grande interesse em **desenvolvimento de interfaces e experiência do usuário**, buscando criar aplicações que unam funcionalidade, clareza visual e usabilidade. Também possuo afinidade com design de interfaces e prototipação, o que contribui para uma visão mais estratégica na construção de produtos digitais.
+Trabalho principalmente com **React, Next.js e TypeScript**, do protótipo no Figma ao deploy na Vercel. Nos projetos solo, como o Kairos e o Praxis, também cuidei do banco no Supabase, com Row Level Security e dados em tempo real. Na Nyxa, rodei e depurei 41 testes E2E com Playwright.
 
-Além do desenvolvimento, sou criador do projeto **Frontista**, perfil onde compartilho minha evolução na área da tecnologia, estudos, projetos, processos criativos e minha trajetória, usando as redes sociais como forma de documentar aprendizado, trocar conhecimento e inspirar outras pessoas que também estão construindo seu caminho na programação.
+Em equipe, fui co-líder e Scrum Master em dois projetos premiados pela banca da UNIFAFIRE (P.O.N.T.E., 1º lugar, e Benevo, 2º lugar), liderei o time da Confluência e fui Product Owner da Cápsula no Hacka Business da Avanade.
 
-Participei de projetos acadêmicos e colaborativos que fortaleceram minhas habilidades em trabalho em equipe, organização, comunicação e resolução de problemas. Busco constantemente evoluir profissionalmente, aprendendo novas tecnologias e desenvolvendo soluções cada vez mais eficientes e bem estruturadas.
+Fora do código, crio o **Frontista**, perfil onde documento em público minha evolução na programação.
 
 Paulista, PE 📍
 
@@ -60,10 +60,10 @@ Paulista, PE 📍
       <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind" height="42"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=supabase,postgres" height="42"/>
+      <img src="https://skillicons.dev/icons?i=supabase" height="42"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" height="42"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" height="42"/>
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ Paulista, PE 📍
       <img src="./img/spacer.png" width="380" height="1" alt=""/>
       <p align="center"><img height="40" src="https://img.shields.io/badge/🏙️_CONFLUÊNCIA-F5B800?style=for-the-badge&logoColor=white"/></p>
       <p>Plataforma cívica do Recife: o cidadão<br/>relata problemas num mapa 3D e o poder<br/>público responde e publica a obra.</p>
-      <p><b>Papel:</b> Líder da equipe<br/>🎓 Projeto do 4º período (time de 3)<br/><b>Período:</b> Ago 2026 até o momento</p>
+      <p><b>Papel:</b> Líder da equipe<br/>🎓 Projeto do 4º período (time de 3)<br/><b>Período:</b> Out a Nov 2026</p>
       <p><img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/confluencia"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://confluencia-liart.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F5B800?style=for-the-badge&logoColor=white"/></a></p>
     </td>
@@ -170,7 +170,7 @@ Paulista, PE 📍
       <img src="./img/spacer.png" width="380" height="1" alt=""/>
       <p align="center"><img height="40" src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/></p>
       <p>Gestão do conhecimento corporativo:<br/>documentos, procedimentos e avisos<br/>num lugar só, com acesso por cargo.</p>
-      <p><b>Papel:</b> Desenvolvedor Full-stack<br/>🏢 Feito para o Grupo ACLF (solo)<br/><b>Período:</b> Mai a Jul 2026</p>
+      <p><b>Papel:</b> Desenvolvedor Full-stack<br/>🏢 Nasceu na minha rotina no Grupo ACLF<br/><b>Período:</b> Mai a Jul 2026</p>
       <p><img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vite" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/praxis"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://demo-praxis.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-14B8A6?style=for-the-badge&logoColor=white"/></a></p>
     </td>

@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=030a06,14532d,0e7490&height=200&section=header&text=João%20Batista&fontSize=52&fontColor=FFFFFF&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-End+J%C3%BAnior+%7C+React+%26+Next.js;Do+Figma+ao+c%C3%B3digo%2C+sempre+com+aten%C3%A7%C3%A3o+ao+detalhe;Frontista+%7C+Documentando+minha+evolu%C3%A7%C3%A3o+em+p%C3%BAblico" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-End+%7C+React+%26+Next.js;Do+Figma+ao+c%C3%B3digo%2C+sempre+com+aten%C3%A7%C3%A3o+ao+detalhe;Frontista+%7C+Documentando+minha+evolu%C3%A7%C3%A3o+em+p%C3%BAblico" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-batista-silva-neto)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profissionalba1is1a@gmail.com)
@@ -57,13 +57,13 @@ Paulista, PE 📍
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" height="42"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind,sass" height="42"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind" height="42"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
+      <img src="https://skillicons.dev/icons?i=supabase,postgres" height="42"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" height="42"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" height="42"/>
     </td>
   </tr>
 </table>
@@ -100,7 +100,7 @@ Paulista, PE 📍
 
 <br/>
 
-🇧🇷 Português · Nativo &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 Inglês · B1 &nbsp;&nbsp;|&nbsp;&nbsp; 🇪🇸 Espanhol · Intermediário
+🇧🇷 Português · Nativo &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 Inglês · Intermediário &nbsp;&nbsp;|&nbsp;&nbsp; 🇪🇸 Espanhol · Intermediário
 
 </div>
 
@@ -108,7 +108,7 @@ Paulista, PE 📍
 
 ## < Projetos />
 
-<sub>Do mais recente pro mais antigo.</sub>
+<sub>Projetos pessoais e acadêmicos, com demo e código.</sub>
 
 <br/>
 
@@ -117,22 +117,69 @@ Paulista, PE 📍
 <table width="100%">
   <tr>
     <td align="center">
-      <img width="260" src="https://img.shields.io/badge/💰_DESPEVIT-8B5CF6?style=for-the-badge&logoColor=white"/>
+      <img width="260" src="https://img.shields.io/badge/🏙️_CONFLUÊNCIA-F5B800?style=for-the-badge&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>
-      <b>💰 Despevit</b>
+      <b>🏙️ Confluência</b>
       <br/><br/>
-      Gestão e planejamento financeiro pessoal: contas, cartões, metas e previsão de compras num lugar só.
+      Plataforma cívica para o Recife: o cidadão relata problemas num mapa 3D, o órgão público responde, abre consultas com voto secreto e publica a obra numa linha do tempo.
       <br/><br/>
-      🚧 <b>Em construção</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Set 2026 até o momento
+      <b>Papel:</b> Líder da equipe (3 pessoas) &nbsp;|&nbsp; <b>Projeto final do 4º período</b>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=angular,ts,supabase,postgres" height="36"/>
+      <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase" height="36"/>
       <br/><br/>
-      <a href="https://github.com/joaobatis1a/despevit"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/joaobatis1a/confluencia"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://confluencia-liart.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F5B800?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img width="260" src="https://img.shields.io/badge/🪙_NYXA-D28A4C?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🪙 Nyxa</b>
       <br/><br/>
-      <sub>ainda sem demo, código em construção</sub>
+      Marketplace de NFTs com preços e estoque em tempo real, checkout idempotente e API simulada com MSW. Projeto pessoal, com 41 testes E2E.
+      <br/><br/>
+      <b>Papel:</b> Desenvolvedor Front-end (solo) &nbsp;|&nbsp; <b>Período:</b> Out 2026
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,playwright" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/nyxa"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://nyxa-nft-marketplace.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-D28A4C?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img width="260" src="https://img.shields.io/badge/💊_CÁPSULA-FF5A1F?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💊 Cápsula</b>
+      <br/><br/>
+      Estúdio criativo com IA para marketing de farmácias, criado no Hacka Business da Avanade. Cada peça mostra a fonte das ideias e passa por um checklist da Anvisa antes da aprovação humana.
+      <br/><br/>
+      <b>Papel:</b> Product Owner & principal desenvolvedor (time de 3) &nbsp;|&nbsp; <b>Hacka Business Avanade</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/capsula"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://capsula-mvp.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-FF5A1F?style=for-the-badge&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -190,6 +237,54 @@ Paulista, PE 📍
 <table width="100%">
   <tr>
     <td align="center">
+      <img width="260" src="https://img.shields.io/badge/🧵_VESSA-BD5B35?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🧵 VESSA</b>
+      <br/><br/>
+      Landing page editorial de moda, costurada por um fio animado que acompanha a rolagem, com cenas presas ao scroll e pedido montado direto no WhatsApp.
+      <br/><br/>
+      <b>Papel:</b> Desenvolvedor Front-end (solo)
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/vessa"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://vessa-atelie.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-BD5B35?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img width="260" src="https://img.shields.io/badge/🧸_NINA_BRINQUEDOS-F2600A?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🧸 Nina Brinquedos</b>
+      <br/><br/>
+      MVP de e-commerce de brinquedos (marca fictícia) com busca, filtros, carrinho, favoritos, conta e checkout simulado em etapas.
+      <br/><br/>
+      <b>Papel:</b> Desenvolvedor Front-end (solo)
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/ninabrinquedos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://ninabrinquedos.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F2600A?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
       <img width="260" src="https://img.shields.io/badge/🌉_P.O.N.T.E-F97316?style=for-the-badge&logoColor=white"/>
     </td>
   </tr>
@@ -199,7 +294,7 @@ Paulista, PE 📍
       <br/><br/>
       Conecta jovens talentos do Nordeste a oportunidades reais, com o Manguelito, um assistente de IA que identifica habilidades a partir de conversas.
       <br/><br/>
-      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jan 2026 até o momento
+      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Co-líder & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jan 2026 até o momento
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,figma,python,fastapi,mongodb" height="36"/>
       <br/><br/>
@@ -223,7 +318,7 @@ Paulista, PE 📍
       <br/><br/>
       Gestão de doações para ONGs: controle de estoque, recebimento e distribuição de itens para beneficiários.
       <br/><br/>
-      🥈 <b>2º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Front-end Lead & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jul a Dez 2025
+      🥈 <b>2º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Co-líder & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jul a Dez 2025
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb" height="36"/>
       <br/><br/>

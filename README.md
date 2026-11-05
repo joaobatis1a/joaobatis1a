@@ -118,14 +118,14 @@ Paulista, PE 📍
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/🏙️_CONFLUÊNCIA-F5B800?style=for-the-badge&logoColor=white"/></p>
-      <p>Plataforma cívica para o Recife: o cidadão relata problemas num mapa 3D e o órgão público responde, abre consultas e publica a obra.</p>
+      <p>Plataforma cívica para o Recife: o cidadão<br/>relata problemas num mapa 3D e o órgão<br/>público responde e publica a obra.</p>
       <p><b>Papel:</b> Líder da equipe<br/>🎓 Projeto final do 4º período (time de 3)<br/><b>Período:</b> Ago 2026 até o momento</p>
       <p><img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/confluencia"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://confluencia-liart.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F5B800?style=for-the-badge&logoColor=white"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/🪙_NYXA-D28A4C?style=for-the-badge&logoColor=white"/></p>
-      <p>Marketplace de NFTs com preços e estoque em tempo real, checkout idempotente, API simulada com MSW e 41 testes E2E com Playwright.</p>
+      <p>Marketplace de NFTs com preço e estoque em<br/>tempo real, checkout idempotente, API<br/>simulada com MSW e 41 testes E2E.</p>
       <p><b>Papel:</b> Desenvolvedor Front-end<br/>💡 Projeto pessoal (solo)<br/><b>Período:</b> Out 2026</p>
       <p><img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/nyxa"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://nyxa-nft-marketplace.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-D28A4C?style=for-the-badge&logoColor=white"/></a></p>
@@ -134,14 +134,14 @@ Paulista, PE 📍
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/💊_CÁPSULA-FF5A1F?style=for-the-badge&logoColor=white"/></p>
-      <p>Estúdio criativo com IA para marketing de farmácias: cada peça mostra a fonte das ideias e passa por um checklist da Anvisa antes de ir ao ar.</p>
+      <p>Estúdio criativo com IA para marketing de<br/>farmácias: cada peça mostra suas fontes e<br/>passa por um checklist da Anvisa.</p>
       <p><b>Papel:</b> Product Owner & dev principal<br/>🏆 Hacka Business Avanade (time de 3)<br/><b>Período:</b> Out 2026</p>
       <p><img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/capsula"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://capsula-mvp.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-FF5A1F?style=for-the-badge&logoColor=white"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/🧵_VESSA-BD5B35?style=for-the-badge&logoColor=white"/></p>
-      <p>Landing page editorial de moda, costurada por um fio animado que acompanha a rolagem, com cenas presas ao scroll e pedido direto no WhatsApp.</p>
+      <p>Landing page editorial de moda, costurada<br/>por um fio animado que segue a rolagem, com<br/>pedido montado direto no WhatsApp.</p>
       <p><b>Papel:</b> Desenvolvedor Front-end<br/>💡 Projeto pessoal (solo)<br/><b>Período:</b> Out 2026</p>
       <p><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/vessa"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://vessa-atelie.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-BD5B35?style=for-the-badge&logoColor=white"/></a></p>
@@ -150,14 +150,14 @@ Paulista, PE 📍
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/🧸_NINA_BRINQUEDOS-F2600A?style=for-the-badge&logoColor=white"/></p>
-      <p>E-commerce de brinquedos de marca fictícia com busca, filtros, carrinho, favoritos, conta do cliente e checkout simulado em etapas.</p>
+      <p>E-commerce de brinquedos (marca fictícia)<br/>com busca, filtros, carrinho, favoritos e<br/>checkout simulado em etapas.</p>
       <p><b>Papel:</b> Desenvolvedor Front-end<br/>💡 Projeto pessoal (solo)<br/><b>Período:</b> Set 2026</p>
       <p><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/ninabrinquedos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://ninabrinquedos.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F2600A?style=for-the-badge&logoColor=white"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/💈_KAIROS-F43F5E?style=for-the-badge&logoColor=white"/></p>
-      <p>Agendamento para barbearias: o cliente marca pelo link, o barbeiro acompanha tudo no painel e a confirmação e o lembrete saem por e-mail.</p>
+      <p>Agendamento para barbearias: o cliente<br/>marca pelo link, o barbeiro usa o painel e<br/>os lembretes saem por e-mail.</p>
       <p><b>Papel:</b> Desenvolvedor Full-stack<br/>💡 Projeto pessoal (solo)<br/><b>Período:</b> Jun a Set 2026</p>
       <p><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/kairos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://kairos-demo-rouge.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-F43F5E?style=for-the-badge&logoColor=white"/></a></p>
@@ -166,14 +166,14 @@ Paulista, PE 📍
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/></p>
-      <p>Gestão do conhecimento corporativo: documentos, procedimentos e avisos da equipe num lugar só, com acesso controlado por cargo e setor.</p>
+      <p>Gestão do conhecimento corporativo:<br/>documentos, procedimentos e avisos num lugar<br/>só, com acesso controlado por cargo.</p>
       <p><b>Papel:</b> Desenvolvedor Full-stack<br/>🏢 Feito para o Grupo ACLF (solo)<br/><b>Período:</b> Mai a Jul 2026</p>
       <p><img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vite" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/praxis"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://demo-praxis.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-14B8A6?style=for-the-badge&logoColor=white"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/🌉_P.O.N.T.E-F97316?style=for-the-badge&logoColor=white"/></p>
-      <p>Conecta jovens talentos do Nordeste a vagas, cursos e eventos, com o Manguelito, um assistente de IA que identifica habilidades em conversas.</p>
+      <p>Conecta jovens talentos do Nordeste a vagas,<br/>cursos e eventos, com o Manguelito, IA que<br/>identifica habilidades em conversas.</p>
       <p><b>Papel:</b> Co-líder & Scrum Master<br/>🥇 1º lugar na UNIFAFIRE (time de 5)<br/><b>Período:</b> Fev a Jun 2026</p>
       <p><img src="https://skillicons.dev/icons?i=html,css,js,figma,python,fastapi,mongodb" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/ponte"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://ponte-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-F97316?style=for-the-badge&logoColor=white"/></a></p>
@@ -182,14 +182,14 @@ Paulista, PE 📍
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/🤝_BENEVO-3B82F6?style=for-the-badge&logoColor=white"/></p>
-      <p>Gestão de doações para ONGs: controle de estoque, recebimento e distribuição de itens aos beneficiários, com transparência e menos burocracia.</p>
+      <p>Gestão de doações para ONGs: controle de<br/>estoque, recebimento e distribuição de<br/>itens aos beneficiários.</p>
       <p><b>Papel:</b> Co-líder & Scrum Master<br/>🥈 2º lugar na UNIFAFIRE (time de 5)<br/><b>Período:</b> Jul a Dez 2025</p>
       <p><img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/benevo"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://benevo-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-3B82F6?style=for-the-badge&logoColor=white"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><img height="40" src="https://img.shields.io/badge/🦠_LIMPATTACK-FBBF24?style=for-the-badge&logoColor=black"/></p>
-      <p>Jogo educativo inspirado em Pokémon que ensina hábitos de higiene e o combate às bactérias a crianças de 6 a 10 anos, com mapas e batalhas.</p>
+      <p>Jogo educativo inspirado em Pokémon que<br/>ensina higiene e o combate às bactérias a<br/>crianças de 6 a 10 anos.</p>
       <p><b>Papel:</b> Desenvolvedor & Editor do Trailer<br/>🥇 1º lugar entre 8 equipes<br/><b>Período:</b> Fev a Jul 2025</p>
       <p><img src="https://skillicons.dev/icons?i=python" height="36"/> <img src="./img/pygame.png" height="36" width="36" alt="Pygame"/></p>
       <p><a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://limpattack.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-FBBF24?style=for-the-badge&logoColor=black"/></a></p>

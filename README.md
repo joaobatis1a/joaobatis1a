@@ -108,7 +108,7 @@ Paulista, PE 📍
 
 ## < Projetos />
 
-<sub>Projetos pessoais e acadêmicos, com demo e código.</sub>
+<sub>Projetos pessoais e acadêmicos, do mais recente pro mais antigo.</sub>
 
 <br/>
 
@@ -189,54 +189,6 @@ Paulista, PE 📍
 <table width="100%">
   <tr>
     <td align="center">
-      <img width="260" src="https://img.shields.io/badge/💈_KAIROS-F43F5E?style=for-the-badge&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>💈 Kairos</b>
-      <br/><br/>
-      Agendamento para barbearias: cliente marca pelo link, barbeiro acompanha tudo no painel, com confirmação e lembrete automáticos por e-mail.
-      <br/><br/>
-      <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Jun a Set 2026
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" height="36"/>
-      <br/><br/>
-      <a href="https://github.com/joaobatis1a/kairos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-      <a href="https://kairos-demo-rouge.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-F43F5E?style=for-the-badge&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img width="260" src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📚 Praxis</b>
-      <br/><br/>
-      Gestão do conhecimento corporativo: documentos, procedimentos e avisos da equipe num lugar só, com acesso por cargo.
-      <br/><br/>
-      <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Mai a Jul 2026
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vite" height="36"/>
-      <br/><br/>
-      <a href="https://github.com/joaobatis1a/praxis"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-      <a href="https://demo-praxis.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-14B8A6?style=for-the-badge&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td align="center">
       <img width="260" src="https://img.shields.io/badge/🧵_VESSA-BD5B35?style=for-the-badge&logoColor=white"/>
     </td>
   </tr>
@@ -276,6 +228,54 @@ Paulista, PE 📍
       <br/><br/>
       <a href="https://github.com/joaobatis1a/ninabrinquedos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="https://ninabrinquedos.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F2600A?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img width="260" src="https://img.shields.io/badge/💈_KAIROS-F43F5E?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💈 Kairos</b>
+      <br/><br/>
+      Agendamento para barbearias: cliente marca pelo link, barbeiro acompanha tudo no painel, com confirmação e lembrete automáticos por e-mail.
+      <br/><br/>
+      <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Jun a Set 2026
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/kairos"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://kairos-demo-rouge.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-F43F5E?style=for-the-badge&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img width="260" src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📚 Praxis</b>
+      <br/><br/>
+      Gestão do conhecimento corporativo: documentos, procedimentos e avisos da equipe num lugar só, com acesso por cargo.
+      <br/><br/>
+      <b>Papel:</b> Desenvolvedor Full-stack (solo) &nbsp;|&nbsp; <b>Período:</b> Mai a Jul 2026
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vite" height="36"/>
+      <br/><br/>
+      <a href="https://github.com/joaobatis1a/praxis"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://demo-praxis.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-14B8A6?style=for-the-badge&logoColor=white"/></a>
     </td>
   </tr>
 </table>

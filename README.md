@@ -117,7 +117,7 @@ Paulista, PE 📍
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/🏙️_CONFLUÊNCIA-F5B800?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/🏙️_CONFLUÊNCIA-F5B800?style=for-the-badge&logoColor=white"/></p>
       <b>🏙️ Confluência</b>
       <br/><br/>
       Plataforma cívica para o Recife: o cidadão relata problemas num mapa 3D, o órgão público responde, abre consultas com voto secreto e publica a obra numa linha do tempo.
@@ -132,7 +132,7 @@ Paulista, PE 📍
       <a href="https://confluencia-liart.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F5B800?style=for-the-badge&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/🪙_NYXA-D28A4C?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/🪙_NYXA-D28A4C?style=for-the-badge&logoColor=white"/></p>
       <b>🪙 Nyxa</b>
       <br/><br/>
       Marketplace de NFTs com preços e estoque em tempo real, checkout idempotente e API simulada com MSW. Projeto pessoal, com 41 testes E2E.
@@ -148,7 +148,7 @@ Paulista, PE 📍
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/💊_CÁPSULA-FF5A1F?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/💊_CÁPSULA-FF5A1F?style=for-the-badge&logoColor=white"/></p>
       <b>💊 Cápsula</b>
       <br/><br/>
       Estúdio criativo com IA para marketing de farmácias, criado no Hacka Business da Avanade. Cada peça mostra a fonte das ideias e passa por um checklist da Anvisa antes da aprovação humana.
@@ -163,7 +163,7 @@ Paulista, PE 📍
       <a href="https://capsula-mvp.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-FF5A1F?style=for-the-badge&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/🧵_VESSA-BD5B35?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/🧵_VESSA-BD5B35?style=for-the-badge&logoColor=white"/></p>
       <b>🧵 VESSA</b>
       <br/><br/>
       Landing page editorial de moda, costurada por um fio animado que acompanha a rolagem, com cenas presas ao scroll e pedido montado direto no WhatsApp.
@@ -179,7 +179,7 @@ Paulista, PE 📍
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/🧸_NINA_BRINQUEDOS-F2600A?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/🧸_NINA_BRINQUEDOS-F2600A?style=for-the-badge&logoColor=white"/></p>
       <b>🧸 Nina Brinquedos</b>
       <br/><br/>
       MVP de e-commerce de brinquedos (marca fictícia) com busca, filtros, carrinho, favoritos, conta e checkout simulado em etapas.
@@ -193,7 +193,7 @@ Paulista, PE 📍
       <a href="https://ninabrinquedos.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-F2600A?style=for-the-badge&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/💈_KAIROS-F43F5E?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/💈_KAIROS-F43F5E?style=for-the-badge&logoColor=white"/></p>
       <b>💈 Kairos</b>
       <br/><br/>
       Agendamento para barbearias: cliente marca pelo link, barbeiro acompanha tudo no painel, com confirmação e lembrete automáticos por e-mail.
@@ -209,7 +209,7 @@ Paulista, PE 📍
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/📚_PRAXIS-14B8A6?style=for-the-badge&logoColor=white"/></p>
       <b>📚 Praxis</b>
       <br/><br/>
       Gestão do conhecimento corporativo: documentos, procedimentos e avisos da equipe num lugar só, com acesso por cargo.
@@ -223,7 +223,7 @@ Paulista, PE 📍
       <a href="https://demo-praxis.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-14B8A6?style=for-the-badge&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/🌉_P.O.N.T.E-F97316?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/🌉_P.O.N.T.E-F97316?style=for-the-badge&logoColor=white"/></p>
       <b>🌉 P.O.N.T.E</b>
       <br/><br/>
       Conecta jovens talentos do Nordeste a oportunidades reais, com o Manguelito, um assistente de IA que identifica habilidades a partir de conversas.
@@ -240,7 +240,7 @@ Paulista, PE 📍
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/🤝_BENEVO-3B82F6?style=for-the-badge&logoColor=white"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/🤝_BENEVO-3B82F6?style=for-the-badge&logoColor=white"/></p>
       <b>🤝 Benevo</b>
       <br/><br/>
       Gestão de doações para ONGs: controle de estoque, recebimento e distribuição de itens para beneficiários.
@@ -255,7 +255,7 @@ Paulista, PE 📍
       <a href="https://benevo-demo.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-3B82F6?style=for-the-badge&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img width="260" src="https://img.shields.io/badge/🦠_LIMPATTACK-FBBF24?style=for-the-badge&logoColor=black"/></p>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/🦠_LIMPATTACK-FBBF24?style=for-the-badge&logoColor=black"/></p>
       <b>🦠 Limpattack</b>
       <br/><br/>
       Jogo inspirado na franquia Pokémon pra ensinar higiene e combate a bactérias pra crianças de 6 a 10 anos.

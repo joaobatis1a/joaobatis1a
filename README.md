@@ -126,7 +126,7 @@ Paulista, PE 📍
       <br/><br/>
       Plataforma cívica para o Recife: o cidadão relata problemas num mapa 3D, o órgão público responde, abre consultas com voto secreto e publica a obra numa linha do tempo.
       <br/><br/>
-      <b>Papel:</b> Líder da equipe (3 pessoas) &nbsp;|&nbsp; <b>Projeto final do 4º período</b>
+      <b>Papel:</b> Líder da equipe (3 pessoas) &nbsp;|&nbsp; <b>Projeto final do 4º período</b> &nbsp;|&nbsp; <b>Período:</b> Ago 2026 até o momento
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase" height="36"/>
       <br/><br/>
@@ -174,7 +174,7 @@ Paulista, PE 📍
       <br/><br/>
       Estúdio criativo com IA para marketing de farmácias, criado no Hacka Business da Avanade. Cada peça mostra a fonte das ideias e passa por um checklist da Anvisa antes da aprovação humana.
       <br/><br/>
-      <b>Papel:</b> Product Owner & principal desenvolvedor (time de 3) &nbsp;|&nbsp; <b>Hacka Business Avanade</b>
+      <b>Papel:</b> Product Owner & principal desenvolvedor (time de 3) &nbsp;|&nbsp; <b>Hacka Business Avanade</b> &nbsp;|&nbsp; <b>Período:</b> Out 2026
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="36"/>
       <br/><br/>
@@ -246,7 +246,7 @@ Paulista, PE 📍
       <br/><br/>
       Landing page editorial de moda, costurada por um fio animado que acompanha a rolagem, com cenas presas ao scroll e pedido montado direto no WhatsApp.
       <br/><br/>
-      <b>Papel:</b> Desenvolvedor Front-end (solo)
+      <b>Papel:</b> Desenvolvedor Front-end (solo) &nbsp;|&nbsp; <b>Período:</b> Out 2026
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" height="36"/>
       <br/><br/>
@@ -270,7 +270,7 @@ Paulista, PE 📍
       <br/><br/>
       MVP de e-commerce de brinquedos (marca fictícia) com busca, filtros, carrinho, favoritos, conta e checkout simulado em etapas.
       <br/><br/>
-      <b>Papel:</b> Desenvolvedor Front-end (solo)
+      <b>Papel:</b> Desenvolvedor Front-end (solo) &nbsp;|&nbsp; <b>Período:</b> Set 2026
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="36"/>
       <br/><br/>
@@ -294,7 +294,7 @@ Paulista, PE 📍
       <br/><br/>
       Conecta jovens talentos do Nordeste a oportunidades reais, com o Manguelito, um assistente de IA que identifica habilidades a partir de conversas.
       <br/><br/>
-      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Co-líder & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Jan 2026 até o momento
+      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Co-líder & Scrum Master &nbsp;|&nbsp; <b>Período:</b> Fev a Jun 2026
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,figma,python,fastapi,mongodb" height="36"/>
       <br/><br/>
@@ -342,7 +342,7 @@ Paulista, PE 📍
       <br/><br/>
       Jogo inspirado na franquia Pokémon pra ensinar higiene e combate a bactérias pra crianças de 6 a 10 anos.
       <br/><br/>
-      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor & Editor do Trailer &nbsp;|&nbsp; <b>Período:</b> Fev a Jun 2025
+      🥇 <b>1º Lugar</b> &nbsp;|&nbsp; <b>Papel:</b> Desenvolvedor & Editor do Trailer &nbsp;|&nbsp; <b>Período:</b> Fev a Jul 2025
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=python" height="36"/>
       <img src="./img/pygame.png" height="36" width="36" alt="Pygame"/>

@@ -201,6 +201,17 @@ Paulista, PE 📍
       <p><a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://limpattack.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-FBBF24?style=for-the-badge&logoColor=black"/></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./img/spacer.png" width="380" height="1" alt=""/>
+      <p align="center"><img height="40" src="https://img.shields.io/badge/⚽_DRIBLOU_CAIU-DC2626?style=for-the-badge&logoColor=white"/></p>
+      <p>Site do meu clube de Pro Clubs, com<br/>esquema tático interativo, súmula de<br/>jogos e painel admin com Redis.</p>
+      <p><b>Papel:</b> Desenvolvedor Front-end<br/>💡 Projeto pessoal (base gerada com Lovable)<br/><b>Período:</b> Ago a Nov 2026</p>
+      <p><img src="https://skillicons.dev/icons?i=react,ts,tailwind,vercel" height="36"/></p>
+      <p><a href="https://github.com/joaobatis1a/dribloucaiu-landing"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://dribloucaiu-landing.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-DC2626?style=for-the-badge&logoColor=white"/></a></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 </div>

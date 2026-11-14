@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=030a06,14532d,0e7490&height=200&section=header&text=João%20Batista&fontSize=52&fontColor=FFFFFF&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=030a06,14532d,0e7490&height=200&section=header&text=João%20Batista%20Neto&fontSize=52&fontColor=FFFFFF&fontAlignY=45"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-End+%7C+React+%26+Next.js;Do+Figma+ao+c%C3%B3digo%2C+sempre+com+aten%C3%A7%C3%A3o+ao+detalhe;Frontista+%7C+Documentando+minha+evolu%C3%A7%C3%A3o+em+p%C3%BAblico" alt="Typing SVG"/>
 
@@ -15,7 +15,7 @@
 
 ## < Sobre />
 
-Sou **João Batista**, desenvolvedor front-end e estudante do 4º período de Análise e Desenvolvimento de Sistemas no **Centro Universitário UNIFAFIRE**, com formação técnica em TI pelo Senac. Estou buscando **estágio em front-end**.
+Sou **João Batista Neto**, desenvolvedor front-end e estudante do 4º período de Análise e Desenvolvimento de Sistemas no **Centro Universitário UNIFAFIRE**, com formação técnica em TI pelo Senac. Estou buscando **estágio em front-end**.
 
 Trabalho principalmente com **React, Next.js e TypeScript**, do protótipo no Figma ao deploy na Vercel. Nos projetos solo, como o Kairos e o Praxis, também cuidei do banco no Supabase, com Row Level Security e dados em tempo real. Na Nyxa, rodei e depurei 41 testes E2E com Playwright.
 
@@ -134,7 +134,7 @@ Paulista, PE 📍
       <img src="./img/spacer.png" width="380" height="1" alt=""/>
       <p align="center"><img height="40" src="https://img.shields.io/badge/💊_CÁPSULA-FF5A1F?style=for-the-badge&logoColor=white"/></p>
       <p>Estúdio criativo com IA para farmácias:<br/>cada peça mostra suas fontes e passa<br/>por um checklist da Anvisa.</p>
-      <p><b>Papel:</b> Product Owner & dev principal<br/>🏆 Hacka Business Avanade (time de 3)<br/><b>Período:</b> Out 2026</p>
+      <p><b>Papel:</b> Product Owner & dev principal<br/>🚀 Selecionado no Hacka Business Avanade (time de 3)<br/><b>Período:</b> Out 2026</p>
       <p><img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="36"/></p>
       <p><a href="https://github.com/joaobatis1a/capsula"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://capsula-mvp.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-FF5A1F?style=for-the-badge&logoColor=white"/></a></p>
     </td>
@@ -196,7 +196,7 @@ Paulista, PE 📍
       <img src="./img/spacer.png" width="380" height="1" alt=""/>
       <p align="center"><img height="40" src="https://img.shields.io/badge/🦠_LIMPATTACK-FBBF24?style=for-the-badge&logoColor=black"/></p>
       <p>Jogo educativo inspirado em Pokémon<br/>que ensina higiene e o combate às<br/>bactérias a crianças de 6 a 10 anos.</p>
-      <p><b>Papel:</b> Dev & Editor do Trailer<br/>🥇 1º lugar entre 8 equipes<br/><b>Período:</b> Fev a Jul 2025</p>
+      <p><b>Papel:</b> Dev & Editor do Trailer<br/>🥇 1º lugar na UNIFAFIRE (time de 4)<br/><b>Período:</b> Fev a Jul 2025</p>
       <p><img src="https://skillicons.dev/icons?i=python" height="36"/> <img src="./img/pygame.png" height="36" width="36" alt="Pygame"/></p>
       <p><a href="https://github.com/joaobatis1a/limpattack"><img src="https://img.shields.io/badge/Repositório-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://limpattack.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-FBBF24?style=for-the-badge&logoColor=black"/></a></p>
     </td>
